@@ -89,7 +89,7 @@ bluez-hcidump
 
 Ausführen mit sudo ./AlphaDecoder.sh
 
-# Raspberry Pi Zero W zum Auslesen der Grundfos Pumpe
+## Raspberry Pi Zero W zum Auslesen der Grundfos Pumpe
 Zum Auslesen der Pumpendaten bzw. Empfang der Bluetoothpakete eignet sich ein Raspberry Pi Zero W hervorragend. Der Raspberry Pi 4 hat Stand Dezember 2020 leider immer noch einige Probleme mit Bluetooth, siehe z.B. https://github.com/RPi-Distro/firmware-nonfree/issues/8
 https://github.com/RPi-Distro/bluez-firmware/issues/6
 https://github.com/abandonware/noble/issues/99
